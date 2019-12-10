@@ -10,4 +10,4 @@ export default function lifeColor(data) {
   return color;
 }
 
-console.log(lifeColor( { name: 'Маг', health: 10 } ));
+console.log(lifeColor({ name: 'Маг', health: 10 }));
